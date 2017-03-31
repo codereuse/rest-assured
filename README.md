@@ -1,0 +1,1 @@
+https://travis-ci.org/codereuse/rest-assured.svg?branch=master
